@@ -8,6 +8,10 @@ Ceci est un exemple pour illustrer les différentes portions d'un dépôt git et
 
 ## Purpose
 
+Sert à illustrer un certain flot de travail avec Git.
+
 ## Deployment
+
+Ceci est un simple site web - le déploiement peut être réalisé sur n'importe quel serveur web.
 
 ## How to contribute
