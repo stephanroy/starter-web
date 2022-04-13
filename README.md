@@ -15,3 +15,7 @@ Sert à illustrer un certain flot de travail avec Git.
 Ceci est un simple site web - le déploiement peut être réalisé sur n'importe quel serveur web.
 
 ## How to contribute
+
+###Tous droits réservés
+
+Tous droits réservés - 2022
